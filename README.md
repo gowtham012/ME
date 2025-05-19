@@ -1,67 +1,88 @@
-# ME
+````markdown
+![Banner](https://raw.githubusercontent.com/gowtham012/gowtham012/assets/header_wave.gif)
 
-<!-- Header -->
-<h1 align="center">Hi there, I’m Gowtham Kumar Solleti 👋</h1>
+# Hi there, I’m Gowtham Kumar Solleti 👋  
 
-<p align="center">
-  Founding Software Engineer • Backend & Cloud Enthusiast • AI Agent Builder  
-  <br/>
-  <em>Always shipping, learning and optimising.</em>
-</p>
+**Founding Software Engineer • Backend & Cloud Enthusiast • AI Agent Builder**  
+_Always shipping, learning, and optimising._
 
----
-
-## 🛠 Tech Toolbox
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)
-![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-kumar-solleti/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F9721E?style=for-the-badge&logo=vercel&logoColor=white)](https://gowtham012.github.io/Portfolio-main/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowtham.solleti@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-4E5EE4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/gowtham012/gk4.pdf)
 
 ---
 
-## 🚀 What I’m Building&nbsp;Now
-| Project | Stack | Why it’s cool |
-| ------- | ----- | ------------- |
-| **MainPlan _autoGPT** | Python&nbsp;+ LangChain | End‑to‑end agent that automates project road‑mapping |
-| **PitLane‑Labs** | Go&nbsp;+ gRPC&nbsp;+ PostgreSQL | RAG‑powered F1 telemetry insights |
-| **Portfolio‑main** | Next.js&nbsp;+ Three.js | Interactive 3D personal site themed on a Red Bull F1 car |
-| **AIAGENTS** | Python&nbsp;+ Vector DB | Framework experiments for scalable RAG pipelines |
+## 🚀 About Me
+
+```yaml
+title: Founding Software Engineer
+focus:
+  - Distributed Systems
+  - Gen AI & RAG Agents
+  - Terraform • AWS • GCP
+fun_fact: >
+  I model my side‑projects after Formula‑1 pit‑stop speeds—
+  everything must deploy in <10 seconds.
+````
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowtham012&show_icons=true&hide_rank=true&theme=transparent" alt="GitHub stats">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham012&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</p>
+## 🛠️ Tech Stack
+
+| Languages                                                                                                                                                                                                                                                    | Frameworks & Runtimes                                                                                                                                                                                                                                                                                                                                                         | Cloud / DevOps                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go) ![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=openjdk\&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat\&logo=spring\&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat\&logo=react\&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat\&logo=nextdotjs) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat\&logo=googlecloud) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat\&logo=terraform) |
 
 ---
 
-## 📝 Recent Highlights
-- ✨ Architecting microservice back‑ends (Go & Python) that hit 500 K MAU and 3 K RPS with 99.9 % uptime.  
-- 📈 Automating cloud infra with Terraform and GitHub Actions for zero‑touch releases.  
-- 🤖 Shipping AI agents that blend Retrieval‑Augmented Generation with live web automation.  
-- 🗣 Speaking about distributed tracing & observability at university meet‑ups in **Binghamton**. :contentReference[oaicite:0]{index=0}
+## 📈 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=gowtham012\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gowtham012\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham012\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Let’s Connect
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-kumar-solleti/)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-✉️ `gowtham.solleti@gmail.com`
+## 🏆 Trophies
 
-> “Build **fast**, break **less**, learn **always**.”
+![Trophies](https://github-profile-trophy.vercel.app/?username=gowtham012\&theme=verdant\&column=7\&no-frame=true)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gowtham012&style=flat" alt="profile views"/>  
-</p>
+## 🌟 Spotlight Projects
+
+| Project          | Demo / Repo                                        | Tech Highlights                                          | Impact                                                         |
+| ---------------- | -------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------- |
+| **PitLane Labs** | [Repo](https://github.com/gowtham012/PitLane-Labs) | Python • FastAPI • LangChain • FAISS • Pinecone          | 3 K engineering docs turned into a <1 s response RAG assistant |
+| **MealMatch AI** | — Private                                          | 15 micro‑services • Go / Python • GKE • Pub/Sub • Stripe | 500 K MAU • 3 K RPS • 99.9 % uptime                            |
+| **Lecheroo**     | — Stealth                                          | FastAPI • AWS EKS • IoT ingestion                        | Real‑time pricing & traceable nutrition labels                 |
+
+---
+
+## ✍🏼 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+* *Incoming… stay tuned*
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## ❤️‍🔥 Fun Bytes
+
+```
+🏎  F1 nerd        •   🥘  Weekend chef  
+🎮  Indie gamer    •   🚴‍♂️  Road cyclist  
+📓  Design‑doc evangelist
+```
+
+> **“Build fast, break less, learn always.”**
+
+![Profile Views](https://komarev.com/ghpvc/?username=gowtham012\&style=flat\&color=FB6D0B)
+
+```
+```

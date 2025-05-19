@@ -8,7 +8,7 @@ _Always shipping, learning, and optimising._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-kumar-solleti/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F9721E?style=for-the-badge&logo=vercel&logoColor=white)](https://gowtham012.github.io/Portfolio-main/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowtham.solleti@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouthamsolleti3@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-4E5EE4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/gowtham012/gk4.pdf)
 
 ---

@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gowtham-kumar-solleti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://gowtham012.github.io/Portfolio-main/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:gowtham.solleti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:gouthamsolleti3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/gowtham012/gk4.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-4E5EE4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
@@ -93,11 +93,9 @@ fun_fact: >
 
 ## 🎯 Fun Bytes
 
-```text
 🏎  Formula‑1 nerd     •   🥘  Weekend chef
 🎮  Indie gamer        •   🚴‍♂️  Road cyclist
 📓  Design‑doc fanatic •   ⌨️  CLI power‑user
-```
 
 > **“Build fast, break less, learn always.”**
 
@@ -108,4 +106,3 @@ fun_fact: >
 <!-- Bottom wave -->
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:8f01ff,50:fe5f55,100:fb923c&height=120"/>
-```

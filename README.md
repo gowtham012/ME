@@ -1,4 +1,4 @@
-````markdown
+
 ![Banner](https://raw.githubusercontent.com/gowtham012/gowtham012/assets/header_wave.gif)
 
 # Hi there, I’m Gowtham Kumar Solleti 👋  
@@ -15,7 +15,6 @@ _Always shipping, learning, and optimising._
 
 ## 🚀 About Me
 
-```yaml
 title: Founding Software Engineer
 focus:
   - Distributed Systems
@@ -24,7 +23,7 @@ focus:
 fun_fact: >
   I model my side‑projects after Formula‑1 pit‑stop speeds—
   everything must deploy in <10 seconds.
-````
+
 
 ---
 

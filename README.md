@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <!-- Animated banner (Capsule Render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,50:fe5f55,100:8f01ff&height=220&section=header&text=Gowtham%20Kumar%20Solleti&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Cloud%20%7C%20AI%20Agent%20Builder&descAlignY=65&descAlign=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,50:fe5f55,100:8f01ff&height=220&section=header&text=Gowtham%20Kumar%20Solleti&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Cloud%20%7C%20AI%20Agent%20Builder&descAlignY=65&descAlign=50" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2800&pause=700&color=3CF4F2&center=true&vCenter=true&width=800&lines=Hey%2C+I+am+Gowtham+%F0%9F%91%8B;I+build+distributed+systems+at+warp+speed;Shipping+GenAI+agents+and+k8s+microservices;Let's+connect+and+create+impact!" alt="Typing SVG"/>
